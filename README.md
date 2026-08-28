@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim 🐸</h1>
-<h3 align="left">I'm a developer and pixel artist who enjoys turning ideas into things people can actually use. I build across Web3, backend systems, and when I'm not building, I push pixels.</h3>
+I'm a developer and pixel artist who enjoys turning ideas into things people can actually use. I build across Web3, backend systems, and when I'm not building, I push pixels.
 
 <h3>
 What I do 
