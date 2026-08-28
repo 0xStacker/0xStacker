@@ -14,8 +14,6 @@ What I do
   
 Currently Learning, building, breaking things, fixing them, and shipping. My GitHub is basically a collection of things I've built, experiments I'm working on, and ideas I decided were worth bringing to life. Pixels, codes and stuff.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xstacker" alt="0xstacker" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/_0xstacker" target="blank"><img src="https://img.shields.io/twitter/follow/_0xstacker?logo=twitter&style=for-the-badge" alt="_0xstacker" /></a> </p>
 
 - 🔭 I’m currently working on [NFT projects](hoodrogues.xyz)
