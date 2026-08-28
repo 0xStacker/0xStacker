@@ -1,21 +1,39 @@
+<h1 align="center">Hi 👋, I'm Ibrahim 🐸</h1>
+<h3 align="left">I'm a developer and pixel artist who enjoys turning ideas into things people can actually use. I build across Web3, backend systems, and when I'm not building, I push pixels.</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@0xstacker) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_0xstacker) 
+<h3>
+What I do 
+</h3>
+<ul>
+<li>⛓️ Build Web3 / dApp projects </li>
+  <li>🐍 Build backend systems with Python</li>
+  <li>⚛️ Build modern web interfaces with React & TypeScript</li>
+  <li>🎨 Create pixel art & digital experiences </li>
+  <li>🛠️ Turn random ideas into working projects.</li>
+</ul>
+  
+Currently Learning, building, breaking things, fixing them, and shipping. My GitHub is basically a collection of things I've built, experiments I'm working on, and ideas I decided were worth bringing to life. Pixels, codes and stuff.
 
-# 💻 Tech Stack:
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0xStacker&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xStacker&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xStacker&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xstacker" alt="0xstacker" /></a> </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0xStacker&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="left"> <a href="https://twitter.com/_0xstacker" target="blank"><img src="https://img.shields.io/twitter/follow/_0xstacker?logo=twitter&style=for-the-badge" alt="_0xstacker" /></a> </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=0xStacker&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+- 🔭 I’m currently working on [NFT projects](hoodrogues.xyz)
 
----
-[![](https://visitcount.itsvg.in/api?id=0xStacker&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🌱 I’m currently learning **FastApi**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📫 How to reach me **oladotuntemitopeakorede@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_0xstacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_0xstacker" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xstacker&show_icons=true&locale=en&layout=compact" alt="0xstacker" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xstacker&show_icons=true&locale=en" alt="0xstacker" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xstacker&" alt="0xstacker" /></p>
